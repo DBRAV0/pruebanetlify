@@ -1,0 +1,12 @@
+#estilo{
+position: fixed;
+left: 18em;
+top: 6.5em;
+display: inline-block;
+
+}
+image{
+    display: inline-block; 
+    width: 468px;
+    height: 322px;
+}
